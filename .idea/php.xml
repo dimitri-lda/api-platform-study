@@ -148,6 +148,8 @@
       <path value="$PROJECT_DIR$/api/vendor/doctrine/lexer" />
       <path value="$PROJECT_DIR$/api/vendor/lexik/jwt-authentication-bundle" />
       <path value="$PROJECT_DIR$/api/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/data-fixtures" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.4" />
